@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+beautifulsoup4==4.12.2
+#sslchecker==0.1.6
+python-nmap==0.7.1
+pytest==7.4.3
+transformers==4.26.1
+torch==2.7.0
+docker
